@@ -1,0 +1,2 @@
+# Musescore Sheet Music Generator
+A small bash script, that converts .svg music pages into a PDF file. To learn how to get SVG from musescore, please view this tutorial: https://www.youtube.com/watch?v=rBd565lzS5k
